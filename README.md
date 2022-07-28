@@ -1,5 +1,6 @@
 # About
-Very simple exercise. Done within 1 day
+Very simple exercise. Done within 1 day. 
+Ruby v3.0.2p107
 
 # CLI
 ## Test
