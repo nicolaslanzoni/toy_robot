@@ -1,5 +1,6 @@
 # About
     Very simple exercise. Done within 1 day
+    
 # CLI
 ## Test
 `ruby test_robot.rb`
@@ -7,8 +8,11 @@
 `ruby main.rb`
 ### Commands
 `place 1,2,EAST`
+
 `move`
+
 `right`/`left`
+
 `report`
 
 # Web
