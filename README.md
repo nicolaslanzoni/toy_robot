@@ -1,6 +1,6 @@
 # About
-    Very simple exercise. Done within 1 day
-    
+Very simple exercise. Done within 1 day
+
 # CLI
 ## Test
 `ruby test_robot.rb`
